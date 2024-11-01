@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+#cabecera {
+    top: 3px;
+    left: 0.5%;
+    width: 99%;
+    height: 80px;
+    background-color: hsl(217, 91%, 60%);
+}
+
+#columna_izquierda {
+    float: left;
+    width: 34%;
+    height: 480px;
+    background-color: blueviolet;
+}
+
+#columna_central {
+    float: left;
+    width: 34%;
+    height: 480px;
+    background-color: rgb(230, 72, 72);
+}
+
+#columna_derecha {
+    float: left;
+    width: 31%;
+    height: 480px;
+    background-color: blueviolet;
+}
+
+#pie {
+    clear: both;
+    width: 99%;
+    height: 80px;
+    background-color: orangered
+}

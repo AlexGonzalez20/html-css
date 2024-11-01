@@ -1,0 +1,59 @@
+* {
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
+.azul1 {
+    position: absolute;
+    background-color: #4A90E2;
+    top: 0;
+    left: 0;
+    height: 75%;
+    width: 20%;
+}
+
+.azul2 {
+    position: absolute;
+    background-color: #4A90E2;
+    top: 0;
+    left: 20%;
+    height: 75%;
+    width: 20%;
+}
+
+.naranja1 {
+    position: absolute;
+    background-color: #F39C12;
+    top: 75%;
+    left: 0;
+    height: 25%;
+    width: 40%;
+}
+
+.purpura {
+    position: absolute;
+    background-color: #9B59B6;
+    top: 0;
+    right: 20%;
+    height: 100%;
+    width: 40%;
+}
+
+.rojo{
+    position: absolute;
+    background-color: #C1494E;
+    top: 0;
+    right: 0;
+    height: 75%;
+    width: 20%;
+}
+
+.naranja2{
+    position: absolute;
+    background-color: #F39C12;
+    top: 75%;
+    right: 0;
+    height: 25%;
+    width: 20%;
+}
