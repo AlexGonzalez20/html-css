@@ -1,0 +1,139 @@
+body{
+    background-color: black;
+}
+header{
+    
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    row-gap: row;
+    background-color: rgb(0, 0, 0);
+    border-color: black;
+    box-sizing: border-box;
+    border: 1px solid black;
+
+}  
+.class1{
+    color: white;
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+        top: 0%;
+        left: 0;
+        width: 100%;
+        height: 50%;
+}
+.class2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+    background-color: rgb(164, 35, 35);
+        top: 50%;
+        left: 0%;
+        width: 100%;
+        height: 50%;
+}
+
+main{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+    top: 20%;
+    left: 0;
+    width: 100%;
+    height: 60%;
+}
+.left{
+    box-sizing: border-box;
+    border: 2px solid black;
+    position: absolute;
+    top: 0%;
+    left: 0;
+    width: 20%;
+    height: 100%;
+    background-color: rgb(90, 228, 77);
+}
+section{
+    box-sizing: border-box;
+    border: 2px solid black;
+    position: absolute;
+    top: 0%;
+    left: 20%;
+    width: 40%;
+    height: 100%;
+    background-color: rgb(107, 128, 230);
+}
+.right{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+    top: 0%;
+    right: 0;
+    width: 40%;
+    height: 100%;
+}
+.class3{
+    box-sizing: border-box;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: row;
+    position: absolute;
+    right: 0;
+    width: 100%;
+    height: 33.33%;
+    background-color: rgb(213, 236, 33);
+}
+#d1{
+    top: 0%;
+
+}
+#d2{
+    top: 33.33%;
+}
+#d3{
+    top: 66.66%;
+}
+
+footer{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 20%;
+    background-color:rgb(233, 155, 65);
+}
+
+
+.fo1{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+        bottom: 0%;
+        left: 0;
+        width: 33.33%;
+        height: 100%;
+}
+.fo2{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+        bottom: 0%;
+        left: 33.33%;
+        width: 33.33%;
+        height: 100%;
+    
+}
+.fo3{
+    box-sizing: border-box;
+    border: 1px solid black;
+    position: absolute;
+        bottom: 0%;
+        left: 66.66%;
+        width: 33.33%;
+        height: 100%;
+    
+}
