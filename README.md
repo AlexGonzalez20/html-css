@@ -1,2 +1,1 @@
-Presentación de plantillas con HTML y CSS, basada en la guía (4)_sesión_4_caracteristicas_técnicas_interfaz.pdf,
-desarrollada por el grupo de proyecto ByteQuest.
+Presentación de plantillas con HTML y CSS basado en la guía técnica "Características técnicas de interfaz - Sesión 4," desarrollado por el grupo de proyecto ByteQuest para la clase de HTML de la profesora Angélica María Triana Guarnizo.
